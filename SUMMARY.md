@@ -7,3 +7,4 @@
 * [加载并播放WAV音频](./note/04.wave.md)
 * [事件处理](./note/05.events.md)
 * [键盘事件](./note/06.keyboard_events.md)
+* [鼠标事件](./note/07.mouse_events.md)
