@@ -4,3 +4,4 @@
 * [创建并使用Renderer](./note/01.renderer.md)
 * [创建并使用Texture](./note/02.texture.md)
 * [加载并使用BMP图片](./note/03.bmp.md)
+* [加载并播放WAV音频](./note/04.wave.md)
